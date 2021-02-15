@@ -41,9 +41,6 @@ section{
  	color: #3D58A6;
  	font-size: 22px;
  }
- .contact-info{
-	margin-top: 140px;
-	margin-left: 513px;
 }
 .info{
 	font-size: 20px;
@@ -59,7 +56,7 @@ section{
 	margin-bottom: 8px;
 }
 .social-media{
-	margin-top: 273px;
+	margin-top: 36px;
 	margin-left: 31px;
 }
 .fb{
@@ -67,4 +64,21 @@ section{
 }
 .youtube{
 	margin-left: 36px;
+}
+.contact-board{
+	background-color: #E6E6E6;
+}
+.contact-info{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 47px;
+	margin-left: 47px;
+	margin-right: 97px;
+}
+.map{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 47px;
+	margin-right: 90px;
+	margin-bottom: 52px;
 }
