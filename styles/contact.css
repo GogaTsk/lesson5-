@@ -1,0 +1,86 @@
+*{ box-sizing: border-box;
+}
+
+header{
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+section{
+	margin-left: 30px
+}
+
+.boxlogo { 
+	display: inline-block;
+	margin-right: 30px;
+ }
+ 
+ nav{
+ 	display: inline-block;
+ 	vertical-align: 5px;	
+ }
+
+ li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+ section {
+ 	margin-left: 10px
+ }
+ .mainred{
+ 	color: #EE4036;
+ 	font-size: 22px;
+ }
+ .newsblue{
+ 	color: #3D58A6;
+ 	font-size: 22px;
+ }
+ .contacblue{
+ 	color: #3D58A6;
+ 	font-size: 22px;
+ }
+}
+.info{
+	font-size: 20px;
+	color: #3D58A6;
+	margin-bottom: 8px;
+}
+.personal-info{
+	font-size: 16px;
+	color: #808080;
+}
+.info-p{
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+.social-media{
+	margin-top: 36px;
+	margin-left: 31px;
+}
+.fb{
+	margin-right: 36px;
+}
+.youtube{
+	margin-left: 36px;
+}
+.contact-board{
+	background-color: #E6E6E6;
+}
+.contact-info{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 47px;
+	margin-left: 47px;
+	/*margin-right: 97px;*/
+}
+.map{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 47px;
+	margin-right: 90px;
+	margin-bottom: 52px;
+	margin-left: 97px;
+}
+
