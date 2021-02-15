@@ -27,7 +27,8 @@ section{
 }
 
  section {
- 	margin-left: 10px
+ 	margin-left: 10px;
+ 	margin-bottom 30px;
  }
  .mainred{
  	color: #EE4036;
@@ -42,7 +43,7 @@ section{
  	font-size: 22px;
  }
 
- section{
+ .imgedit{
  	margin-top: 30px;
  }
  .resp{
@@ -132,16 +133,3 @@ section{
 .youtube{
 	margin-left: 36px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
