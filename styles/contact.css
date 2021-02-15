@@ -73,7 +73,7 @@ section{
 	vertical-align: top;
 	margin-top: 47px;
 	margin-left: 47px;
-	margin-right: 97px;
+	/*margin-right: 97px;*/
 }
 .map{
 	display: inline-block;
@@ -81,4 +81,5 @@ section{
 	margin-top: 47px;
 	margin-right: 90px;
 	margin-bottom: 52px;
+	margin-left: 97px;
 }
